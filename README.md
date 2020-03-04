@@ -8,7 +8,7 @@ We are thrilled that you are visiting Open Connect Kenya repo!
 
 This README file is to help you understand some of the project's information. Please read along and be part of this journey
 
-* Why this project?
+* [Why this project?](https://github.com/Lilian9/Open_Connect_Kenya/blob/master/README.md#why-this-project)
 * About us?
 * What we need to make it work
 * Get involved
