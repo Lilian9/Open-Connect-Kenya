@@ -16,13 +16,13 @@ This README file is to help you understand some of the project's information. Pl
 
 ## **Why this project?**
 
-**The Problem**
+### **The Problem**
 * Over the years, socioeconomic and political divides in the society has created gap within social movements all over the world. Kenya is not an exception
 * Open enthusiasts in Kenya, Africa are working in isolation meaning the disconnect between open contributors and users is inevitable in the future.
 
 So, we are doing this to make sure that history doesn't repeat itself with the open movement in Kenya. Not having one strong voice whether we like it or not will negatively influence or continue influencing their progress. 
 
-**The Solution**
+### **The Solution**
 
 The Open Connect- Kenya will:
 * Create a website chat room
