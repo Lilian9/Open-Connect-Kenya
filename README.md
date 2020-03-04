@@ -11,7 +11,7 @@ This README file is to help you understand some of the project's information. Pl
 * [Why this project?](https://github.com/Lilian9/Open_Connect_Kenya/blob/master/README.md#why-this-project)
 * [About us?](https://github.com/Lilian9/Open_Connect_Kenya/blob/master/README.md#about-us)
 * [What we need to make it work](https://github.com/Lilian9/Open_Connect_Kenya/blob/master/README.md#what-we-need-to-make-it-work)
-* [Get involved]
+* [Get involved](https://github.com/Lilian9/Open_Connect_Kenya/blob/master/README.md#get-involved)
 * [Contact us]
 
 ## **Why this project?**
