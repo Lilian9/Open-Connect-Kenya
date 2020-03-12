@@ -2,7 +2,8 @@
 
 ***A platform that will ensure no open contributor and user is left behind when shaping Open landscape in Kenya***
 
-**Hello there! Welcome!**
+**Hello there!** 
+**Welcome!**
 
 We are thrilled that you are visiting Open Connect Kenya repo!
 
@@ -51,7 +52,7 @@ The purpose of this platform is to reduce the disconnect between people practici
 
 ## **Get Involved**
 
-***How do we get contributors be involved***? we need guideline?
+***How do we get contributors be involved***? **_we need a guideline?_**
 
 Please note that we care about having a conducive environment for anyone who wants to be part of this project. Therefore upon joining us, we ask that you adhere to the Code of Conduct in all means of interaction.
 
