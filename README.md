@@ -62,7 +62,8 @@ For your suggestions or raising any issue about this project, please contact Lil
 
 You can also hang out with us in the [Open Connect- Kenya]( https://gitter.im/Open-Connect-Kenya/community) room on Gitter.
 
-**Acknowledgement**
+## **Acknowledgement**
+
 We would like to acknowledge **OLS** for selecting **Open Connect Kenya** to be part of the training and mentorship in the first cohort of Open Life Science program
 
 **Thank You**
