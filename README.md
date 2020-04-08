@@ -57,9 +57,9 @@ In order to contribute, follow the guidelines in the [Contributor Guidelines](ht
 
 ## **Contact Us**
 
-For your suggestions or raising any issue about this project, please contact Lilian on 
-[Twitter](https://twitter.com/TheOnlyJuma).
-lillianjuma [at] hotmail [dot] com
+For your suggestions or raising any issue about this project, please contact Lilian on: 
+* [Twitter](https://twitter.com/TheOnlyJuma).
+* lillianjuma [at] hotmail [dot] com
 
 You can also hang out with us in the [Open Connect- Kenya]( https://gitter.im/Open-Connect-Kenya/community) room on Gitter or [Open Connect Kenya Slack Community](https://app.slack.com/client/T0119U29C7J/C0119U29U9W)
 
