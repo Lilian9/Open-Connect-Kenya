@@ -52,15 +52,16 @@ The purpose of this platform is to reduce the disconnect between people practici
 
 ## **Get Involved**
 
-***How do we get contributors be involved***? **_we need a guideline?_**
-
-Please note that we care about having a conducive environment for anyone who wants to be part of this project. Therefore upon joining us, we ask that you adhere to the Code of Conduct in all means of interaction.
+Please note that we care about having a conducive environment for anyone who wants to be part of this project. Therefore upon joining us, we urge you to abide by the Code of Conduct in all means of interaction.
+In order to contribute, follow the guidelines in the [Contributor Guidelines](https://github.com/Lilian9/Open_Connect_Kenya/issues/11)
 
 ## **Contact Us**
 
-For your suggestions or raising any issue about this project, please contact Lilian on [Twitter](https://twitter.com/TheOnlyJuma).
+For your suggestions or raising any issue about this project, please contact Lilian on 
+[Twitter](https://twitter.com/TheOnlyJuma).
+lillianjuma [at] hotmail [dot] com
 
-You can also hang out with us in the [Open Connect- Kenya]( https://gitter.im/Open-Connect-Kenya/community) room on Gitter.
+You can also hang out with us in the [Open Connect- Kenya]( https://gitter.im/Open-Connect-Kenya/community) room on Gitter or [Open Connect Kenya Slack Community](https://app.slack.com/client/T0119U29C7J/C0119U29U9W)
 
 ## **License**
 
