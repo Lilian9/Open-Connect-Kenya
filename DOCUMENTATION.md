@@ -4,8 +4,8 @@ Thanks
 
 **Individuals**
 The following are some of the active people within _Open_ landscape. Please add your name and Twitter or any other social media handle where you frequently share resources
-**Name**                       **Twitter handles**
 
+**Name**                       **Twitter handles**
 - Lilian Juma                   @TheOnlyJuma
 - Serah Rono                  @serahrono
 - Angela Okune              @Honoluluskye
